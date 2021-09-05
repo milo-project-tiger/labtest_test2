@@ -4,7 +4,4 @@ os:
 dist: trusty
 dist: precise
 
-jdk:
-  - openjdk9
-  - openjdk10
   
